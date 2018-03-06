@@ -4,9 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/ESPAppDelegate.h</key>
+		<data>
+		pd5vxQdMZYQizvDm9htWH1sLZL0=
+		</data>
+		<key>Headers/ESPDataCode.h</key>
+		<data>
+		uvIQZxuR7gqp/QCkTwxrqoDk1kI=
+		</data>
+		<key>Headers/ESPDatumCode.h</key>
+		<data>
+		TsbjlkUeCWpuATTj2hla6YYDOyU=
+		</data>
+		<key>Headers/ESPGuideCode.h</key>
+		<data>
+		a75+f57T75ozF3a2Gulhn8acCkg=
+		</data>
 		<key>Headers/ESPTouchDelegate.h</key>
 		<data>
 		RPEhrjGf7K2YMBXxa+H4v0jWwAA=
+		</data>
+		<key>Headers/ESPTouchGenerator.h</key>
+		<data>
+		OtRLrHKBqUmhPCmPI+PhRabBtWI=
 		</data>
 		<key>Headers/ESPTouchResult.h</key>
 		<data>
@@ -16,25 +36,93 @@
 		<data>
 		NEVRy/Yekoh7ZYbBfKME4jNx0E4=
 		</data>
+		<key>Headers/ESPTouchTaskParameter.h</key>
+		<data>
+		mvdLz13zfnhU1IG9s55aLobSpwg=
+		</data>
+		<key>Headers/ESPUDPSocketClient.h</key>
+		<data>
+		QQtHsP5gmFAYr2OO/VvYz7oVfM4=
+		</data>
+		<key>Headers/ESPUDPSocketServer.h</key>
+		<data>
+		kzzHu4hmQDGVCWwLCxefyI9lA5A=
+		</data>
+		<key>Headers/ESPVersionMacro.h</key>
+		<data>
+		JkDYhEb9NILMAW/i/STqUCmcCdw=
+		</data>
+		<key>Headers/ESP_ByteUtil.h</key>
+		<data>
+		aBPEGTalwJD+9RqCA2H2xnyB1jk=
+		</data>
+		<key>Headers/ESP_CRC8.h</key>
+		<data>
+		4kHASJQXV3JQ27M7WzJOW7vVGv4=
+		</data>
 		<key>Headers/ESP_NetUtil.h</key>
 		<data>
 		qcrXW+LAn3dYL25dw+2ijn7oc5I=
 		</data>
-		<key>Headers/EspTouch.h</key>
+		<key>Headers/ESP_WifiUtil.h</key>
 		<data>
-		c56f7ZJkzbut+c3mdlOTVP/Fk+s=
+		1AMsFo/5QgsXSj07U6RS6tdrKXQ=
+		</data>
+		<key>Headers/EspTouchFramework.h</key>
+		<data>
+		BEJG0Vz/Vad1PNqFd2ueIyFMgOA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TTmXrFKOOnR/WvSWuBCefnlewcM=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		mCvJocP1VSbHhDd9AFVIB7nr6d8=
+		f9+M7mx9cx70jmu1+02qqcgsC5o=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/ESPAppDelegate.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pd5vxQdMZYQizvDm9htWH1sLZL0=
+			</data>
+			<key>hash2</key>
+			<data>
+			SDqK4AXlCT3cjkYJyEFQ8cFf3NS5uvSh1SWa5vF0yy0=
+			</data>
+		</dict>
+		<key>Headers/ESPDataCode.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uvIQZxuR7gqp/QCkTwxrqoDk1kI=
+			</data>
+			<key>hash2</key>
+			<data>
+			f6gpB+BwrQ0VgI3TpTh8Ghst3Av72/mDQD+PX0tGIeo=
+			</data>
+		</dict>
+		<key>Headers/ESPDatumCode.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TsbjlkUeCWpuATTj2hla6YYDOyU=
+			</data>
+			<key>hash2</key>
+			<data>
+			vrSfaeIGNKGSf8HIZ8k9exznhE/Ml2t2N5I4eVJMY8Y=
+			</data>
+		</dict>
+		<key>Headers/ESPGuideCode.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a75+f57T75ozF3a2Gulhn8acCkg=
+			</data>
+			<key>hash2</key>
+			<data>
+			gLb3SzZG/gKAU6gt/KihJZ0GjmXoKkN4UDqt7I4mnNs=
+			</data>
+		</dict>
 		<key>Headers/ESPTouchDelegate.h</key>
 		<dict>
 			<key>hash</key>
@@ -44,6 +132,17 @@
 			<key>hash2</key>
 			<data>
 			Lfj3Gc2dOwQRFQh/Tjd188iUgEUU7lC+5qdi/Ek1iBU=
+			</data>
+		</dict>
+		<key>Headers/ESPTouchGenerator.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OtRLrHKBqUmhPCmPI+PhRabBtWI=
+			</data>
+			<key>hash2</key>
+			<data>
+			OIlaJLZhuiQlKUC7mJA7YhXfCtrmOitTXCa57RtqWy8=
 			</data>
 		</dict>
 		<key>Headers/ESPTouchResult.h</key>
@@ -68,6 +167,72 @@
 			OB4KF3h+SmLP8KLjinQ79qb+jc2GyC+Uj7paHazauis=
 			</data>
 		</dict>
+		<key>Headers/ESPTouchTaskParameter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mvdLz13zfnhU1IG9s55aLobSpwg=
+			</data>
+			<key>hash2</key>
+			<data>
+			673BdFyhat0lub2cA21bF+S1wx+/OmUymqaIH4mntug=
+			</data>
+		</dict>
+		<key>Headers/ESPUDPSocketClient.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QQtHsP5gmFAYr2OO/VvYz7oVfM4=
+			</data>
+			<key>hash2</key>
+			<data>
+			efOiI1xQtRCO2R8HU6X8SloMHOXCS6bM+y5fMqF9oSk=
+			</data>
+		</dict>
+		<key>Headers/ESPUDPSocketServer.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kzzHu4hmQDGVCWwLCxefyI9lA5A=
+			</data>
+			<key>hash2</key>
+			<data>
+			5Wv5kdnmeG0lfSBKDugP2eaL0zqybG+MdyntmDWOr14=
+			</data>
+		</dict>
+		<key>Headers/ESPVersionMacro.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JkDYhEb9NILMAW/i/STqUCmcCdw=
+			</data>
+			<key>hash2</key>
+			<data>
+			z1gKRXkb07uvEssX5CLrIWR3QR2bJhIPalqpx7Bzpao=
+			</data>
+		</dict>
+		<key>Headers/ESP_ByteUtil.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aBPEGTalwJD+9RqCA2H2xnyB1jk=
+			</data>
+			<key>hash2</key>
+			<data>
+			AUbAdNYDxmxpIcCEyTUvp3CjlnvZiZlys8z+u0RgFPo=
+			</data>
+		</dict>
+		<key>Headers/ESP_CRC8.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4kHASJQXV3JQ27M7WzJOW7vVGv4=
+			</data>
+			<key>hash2</key>
+			<data>
+			e5upJH6qbbaiaYqlEFmj7cY0yen6Q/CGDkkYNOaMZ/4=
+			</data>
+		</dict>
 		<key>Headers/ESP_NetUtil.h</key>
 		<dict>
 			<key>hash</key>
@@ -79,26 +244,26 @@
 			q3TrTsXXwXYUlkeoeUqnKbIDk5c/wRC4eHT0kbe3adc=
 			</data>
 		</dict>
-		<key>Headers/EspTouch.h</key>
+		<key>Headers/ESP_WifiUtil.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c56f7ZJkzbut+c3mdlOTVP/Fk+s=
+			1AMsFo/5QgsXSj07U6RS6tdrKXQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			olw1ECZ/Vk9K67PbSFLGPffrw7F7z9rlQoFkdP/SMgA=
+			/OIdi+fH75v3twjuDckxMkUPVjd9Kauezid12U1S8go=
 			</data>
 		</dict>
-		<key>Modules/module.modulemap</key>
+		<key>Headers/EspTouchFramework.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mCvJocP1VSbHhDd9AFVIB7nr6d8=
+			BEJG0Vz/Vad1PNqFd2ueIyFMgOA=
 			</data>
 			<key>hash2</key>
 			<data>
-			hUfKc5ON7gWbmApMLOxTO61E947j4RtYI+Eza3ax2pw=
+			s1GuKph/BcOuj1QzR6KxwjOKWTrha4+fBP9eTsL91bQ=
 			</data>
 		</dict>
 	</dict>
